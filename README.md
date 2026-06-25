@@ -6,7 +6,7 @@ Welcome to my GitHub space! ✨
 ### 🎓 About Me
 - 🧑‍🎓 **Current Status:** Master of Data Science student at the Faculty of Science and Technology (FST), Universiti Kebangsaan Malaysia (UKM).
 - 🚀 **Research & Tech Interests:** Machine Learning, Data Mining, Big Data Technologies, and Data Visualization.
-- 💡 **Strength:** Combining a solid undergraduate software engineering foundation with advanced graduate-level data science training.
+- 💡 **Strength:** Combining an undergraduate software engineering foundation with advanced graduate-level data science training.
 
 ### 📚 Knowledge Spectrum
 - **📊 Data Science & Analytics:** Machine Learning | Big Data Tech | Data Analytics & Visualization
@@ -14,15 +14,10 @@ Welcome to my GitHub space! ✨
 
 ---
 
-# 👋 哈喽，我是 HU CHUCHU！
-欢迎来到我的 GitHub 主页！ ✨
-
----
-
 ### 🎓 关于我
 - 🧑‍🎓 **目前状态：** 马来西亚国立大学 (UKM) FST 学院，数据科学硕士在读。
 - 🚀 **研究/技术兴趣：** 机器学习、数据挖掘、大数据技术及数据可视化。
-- 💡 **核心优势：** 结合了本科扎实的软件工程基础与硕士的数据科学系统训练。
+- 💡 **核心优势：** 结合了本科的软件工程基础与硕士的数据科学系统训练。
 
 ### 📚 知识体系
 - **📊 数据科学与分析：** 机器学习 | 大数据技术 | 数据分析与可视化
