@@ -46,9 +46,3 @@ Welcome to my GitHub space! ✨
 
 ---
 
-### 📊 GitHub Stats / 统计图表
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HU-C-C&show_icons=true&theme=material-palenight&count_private=true" alt="HU-C-C's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HU-C-C&layout=compact&theme=material-palenight" alt="Top Langs" height="180px" />
-</p>
