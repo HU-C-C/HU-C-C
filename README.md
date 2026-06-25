@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm HU CHUCHU!
+Welcome to my GitHub space! ✨
 
-<!--
-**HU-C-C/HU-C-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 About Me
+- 🧑‍🎓 **Current Status:** Master of Data Science student at the Faculty of Science and Technology (FST), Universiti Kebangsaan Malaysia (UKM).
+- 🚀 **Research & Tech Interests:** Machine Learning, Data Mining, Big Data Technologies, and Data Visualization.
+- 💡 **Strength:** Combining a solid undergraduate software engineering foundation with advanced graduate-level data science training.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Knowledge Spectrum
+- **📊 Data Science & Analytics:** Machine Learning | Big Data Tech | Data Analytics & Visualization
+- **💻 Software Engineering:** Software Architecture | Database Systems | Web Development
+
+---
+
+# 👋 哈喽，我是 HU CHUCHU！
+欢迎来到我的 GitHub 主页！ ✨
+
+---
+
+### 🎓 关于我
+- 🧑‍🎓 **目前状态：** 马来西亚国立大学 (UKM) FST 学院，数据科学硕士在读。
+- 🚀 **研究/技术兴趣：** 机器学习、数据挖掘、大数据技术及数据可视化。
+- 💡 **核心优势：** 结合了本科扎实的软件工程基础与硕士的数据科学系统训练。
+
+### 📚 知识体系
+- **📊 数据科学与分析：** 机器学习 | 大数据技术 | 数据分析与可视化
+- **💻 软件工程方向：** 软件架构与组件开发 | 数据库系统 | Web开发
+
+---
+
+### 🛠️ Tech Stack / 技能树
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### 📊 GitHub Stats / 统计图表
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HU-C-C&show_icons=true&theme=material-palenight&count_private=true" alt="HU-C-C's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HU-C-C&layout=compact&theme=material-palenight" alt="Top Langs" height="180px" />
+</p>
